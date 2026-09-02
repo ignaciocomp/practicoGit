@@ -1,0 +1,2 @@
+Notas del practico de Git.
+Las tres zonas: working directory, staging, repositorio.

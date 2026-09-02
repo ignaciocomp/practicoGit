@@ -1,0 +1,2 @@
+Comandos vistos hasta ahora:
+git status, add, commit, push, log
